@@ -1,0 +1,119 @@
+﻿define({ entries : {
+    "Alodhyani2020": {
+        "abstract": "A password is considered to be the first line of defence in protecting online accounts, but there are problems when people handle their own passwords, for example, password reuse and difficult to memorize. Password managers appear to be a promising solution to help people handle their passwords. However, there is low adoption of password managers, even though they are widely available, and there are fewer studies on users of password managers. Therefore, the issues that cause people not to use password managers must be investigated and, more generally, what users think about them and the user interfaces of password managers. In this paper, we report three studies that we conducted: on user interfaces and the functions of three password managers; a usability test and an interview study; and an online questionnaire study about users and non-users of password managers, which also compares experts and non-experts regarding their use (or non-use) of password managers. Our findings show that usability is not a major problem, rather lack of trust and transparency are the main reasons for the low adoption of password managers. Users of password managers have trust and security concerns, while there are a few issues with the user interfaces and functions of password managers.",
+        "author": "Fahad Alodhyani and George Theodorakopoulos and Philipp Reinecke",
+        "doi": "10.3390/fi12110189",
+        "journal": "Future Internet",
+        "keywords": "password manager, human factor, security, usability, trust, transparency, user interface",
+        "title": "Password Managers\u2014It\u2019s All about Trust and Transparency",
+        "type": "article",
+        "url": "https://www.mdpi.com/1999-5903/12/11/189",
+        "volume": "12",
+        "year": "2020"
+    },
+    "Chaudhary2019": {
+        "abstract": "A password manager stores and handles users\u2019 passwords from different services. This relieves the users from constantly remembering and recalling many different login credentials. However, because of the poor usability and limited user experience of password managers, users find it difficult to perform basic actions, such as a safe login. Unavoidably, the password manager holds the login credentials of many online services; as a result, it becomes a desired target for online attacks. This results in compromised security, which users often consider as an inevitable condition that must be accepted. Many studies analysed the usability and security of various password managers. Their research findings, though important, are rather incomprehensible to designers of password managers, because they are limited to particular properties or specific applications and they, often, are contradictory. Hence, we focus on investigating properties and features that can elevate the usability, security, and trustworthiness of password managers, aiming at providing practical, simple, and useful guidelines for building a useable password manager. We performed a systematic literature review, in which we selected thirty-two articles with coherent outcomes associated with usability and security. From these outcomes, we deduced and present meaningful suggestions for realising a useable, secure and trustworthy password manager.",
+        "author": "Sunil Chaudhary and Tiina Schafeitel-T\u00e4htinen and Marko Helenius and Eleni Berki",
+        "doi": "10.1016/J.COSREV.2019.03.002",
+        "journal": "Computer Science Review",
+        "keywords": "password manager, cognition, usability, user experience, security, trust, systematic literature review",
+        "pages": "69-90",
+        "title": "Usability, security and trust in password managers: A quest for user-centric properties and features",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/07b760dcb637510be3f2fc99f3dbe762debe0727",
+        "volume": "33",
+        "year": "2019"
+    },
+    "Fagan2017": {
+        "abstract": "Password managers, though commonly recommended by security experts, are still not used by many users. Understanding why some choose to use password managers while others do not is important towards generally understanding why some users do what they do and, by extension, designing motivational tools such as video tutorials to help motivate more to use password managers. To investigate differences between those who do and do not use a password manager, for this paper, we distributed an online survey to a total of 137 users and 111 non-users of the tool that asked about their opinions/experiences with password managers. Furthermore, since emotion has been identified by work in psychology and communications as influential in other risk- laden decision-making (e.g., safe-sex behavior such as condom use), we asked partici- pants who use a password manager to rate how they feel for 45 different emotions, or, as the case for those who do not use a password manager, to rate how they imagine they would feel the 45 emotions if they did use the tool. Our results show that \u201cusers\u201d of password managers noted convenience and usefulness as the main reasons behind using the tool, rather than security gains, underscoring the fact that even a large por- tion of users of the tool are not considering security as the primary benefit while mak- ing the decision. On the other hand, \u201cnon-users\u201d noted security concerns as the main reason for not using a password manager, highlighting the prevalence of suspicion arising from lack of understanding of the technology itself. Finally, analysis of the differ- ences in emotions between \u201cusers\u201d and \u201cnon-users\u201d reveals that participants who never use a password manager are more likely to feel suspicious compared to \u201cusers,\u201d which could be due to misunderstandings about the tool.",
+        "author": "Michael Fagan and Yusuf Albayram and Mohammad Maifi Hasan Khan and Ross Buck",
+        "doi": "10.1186/s13673-017-0093-6",
+        "journal": "Human-centric Computing and Information Sciences",
+        "keywords": "password manager, adoption, security, usability, emotion",
+        "title": "An investigation into users\u2019 considerations towards using password managers",
+        "type": "article",
+        "url": "https://link.springer.com/article/10.1186/s13673-017-0093-6",
+        "volume": "7",
+        "year": "2017"
+    },
+    "Fahl2013, ": {
+        "abstract": "Password managers aim to help users manage their ever in- creasing number of passwords for online authentication. Since users only have to memorise one master secret to unlock an encrypted password database or key chain storing all their (hopefully) different and strong passwords, password managers are intended to increase username/pass- word security. With mobile Internet usage on the rise, password managers have found their way onto smartphones and tablets. In this paper, we analyse the security of password managers on Android devices. While en- cryption mechanisms are used to protect credentials, we will show that a usability feature of the investigated mobile password managers puts the users\u2019 usernames and passwords at risk. We demonstrate the conse- quences of our findings by analysing 21 popular free and paid password managers for Android. We then make recommendations how to over- come the current problems and provide an implementation of a secure and usable mobile password manager.",
+        "author": "Sascha Fahl and Marian Harbach and Marten Oltrogge and Thomas Muders and Matthew Smith",
+        "booktitle": "Proceedings of the 17th International Conference on Financial Cryptography and Data Security",
+        "doi": "10.1007/978-3-642-39884-1_12",
+        "keywords": "android, security, apps, password managers, vulnerability",
+        "pages": "144-161",
+        "title": "Hey, You, Get Off of My Clipboard \u2013 On How Usability Trumps Security in Android Password Managers",
+        "type": "inproceedings",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-642-39884-1_12",
+        "year": "2013"
+    },
+    "Huaman2021": {
+        "abstract": "Password managers are tools to support users with the secure generation and storage of credentials and logins used in online accounts. Previous work illustrated that building password managers means facing various security and usability challenges. For strong security and good usability, the interaction between password managers and websites needs to be smooth and effortless. However, user reviews for popular password managers suggest interaction problems for some websites. Therefore, to the best of our knowledge, this work is the first to systematically identify these interaction problems and investigate how 15 desktop password managers, including the ten most popular ones, are affected. We use a qualitative analysis approach to identify 39 interaction problems from 2,947 user reviews and 372 GitHub issues for 30 password managers. Next, we implement minimal working examples (MWEs) for all interaction problems we found and evaluate them for all password managers in 585 test cases.Our results illustrate that a) password managers struggle to correctly implement authentication features such as HTTP Basic Authentication and modern standards such as the autocomplete-attribute and b) websites fail to implement clean and well-structured authentication forms. We conclude that some of our findings can be addressed by either PWM providers or web-developers by adhering to already existing standards, recommendations and best practices, while other cases are currently almost impossible to implement securely and require further research.",
+        "author": "Nicolas Huaman and Sabrina Amft and Marten Oltrogge and Yasemin Acar and Sascha Fahl",
+        "doi": "10.1109/SP40001.2021.00094",
+        "journal": "2021 IEEE Symposium on Security and Privacy",
+        "title": "They Would do Better if They Worked Together: The Case of Interaction Problems Between Password Managers and Websites",
+        "type": "article",
+        "url": "https://ieeexplore.ieee.org/document/9519389",
+        "year": "2021"
+    },
+    "Oesch2019": {
+        "abstract": "Password managers have the potential to help users more effectively manage their passwords and address many of the concerns surrounding password-based authentication, however prior research has identified significant vulnerabilities in existing password managers. Since that time, five years has passed, leaving it unclear whether password managers remain vulnerable or whether they are now ready for broad adoption. To answer this question, we evaluate thirteen popular password managers and consider all three stages of the password manager lifecycle--password generation, storage, and autofill. Our evaluation is the first analysis of password generation in password managers, finding several non-random character distributions and identifying instances where generated passwords were vulnerable to online and offline guessing attacks. For password storage and autofill, we replicate past evaluations, demonstrating that while password managers have improved in the half-decade since those prior evaluations, there are still significant issues, particularly with browser-based password managers; these problems include unencrypted metadata, unsafe defaults, and vulnerabilities to clickjacking attacks. Based on our results, we identify password managers to avoid, provide recommendations on how to improve existing password managers, and identify areas of future research.",
+        "author": "Sean Oesch and Scott Ruoti",
+        "doi": "10.48550/arXiv.1908.03296",
+        "journal": "Ithaca",
+        "title": "That Was Then, This Is Now: A Security Evaluation of Password Generation, Storage, and Autofill in Thirteen Password Managers",
+        "type": "article",
+        "url": "https://arxiv.org/abs/1908.03296",
+        "year": "2019"
+    },
+    "Seiler-Hwang2019, ": {
+        "abstract": "Passwords are an often unavoidable authentication mechanism, despite the availability of additional alternative means. In the case of smartphones, usability problems are aggravated because interaction happens through small screens and multilayer keyboards. While password managers (PMs) can improve this situation and contribute to hardening security, their adoption is far from widespread. To understand the underlying reasons, we conducted the first empirical usability study of mobile PMs, covering both quantitative and qualitative evaluations. Our findings show that popular PMs are barely acceptable according to the standard System Usability Scale, and that there are three key areas for improvement: integration with external applications, security, and user guidance and interaction. We build on the collected evidence to suggest recommendations that can fill this gap.",
+        "author": "Sunyoung Seiler-Hwang and Patricia Arias-Cabarcos and Andr\u00e9s Mar\u00edn and Florina Almenares and Daniel D\u00edaz-S\u00e1nchez and Christian Becker",
+        "booktitle": "Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security",
+        "doi": "10.1145/3319535.3354192",
+        "keywords": "usable security, password managers, authentication, user study",
+        "pages": "1937-1953",
+        "title": "\u201cI don\u2019t see why I would ever want to use it\u201d: Analyzing the Usability of Popular Smartphone Password Managers",
+        "type": "inproceedings",
+        "url": "https://dl.acm.org/doi/10.1145/3319535.3354192",
+        "year": "2019"
+    },
+    "Simmons2021, ": {
+        "abstract": "Despite efforts to replace them, passwords remain the primary form of authentication on the web. Password managers seek to address many of the problems with passwords by helping users generate, store, and fill strong and unique passwords. Even though experts frequently recommend password managers, there is limited information regarding their usability. To aid in designing such usability studies, we systematize password manager use cases, identifying ten essential use cases, three recommended use cases, and four extended use cases. We also systematize the system designs employed to satisfy these use cases, designs that should be examined in usability studies to understand their relative strengths and weaknesses. Finally, we describe observations from 136 cognitive walkthroughs exploring the identified essential use cases in eight popular managers. Ultimately, we expect that this work will serve as the foundation for an explosion of new research into the usability of password managers.",
+        "author": "James Simmons and Oumar Diallo and Sean Oesch and Scott Ruoti",
+        "booktitle": "Proceedings of the 37th Annual Computer Security Applications Conference",
+        "doi": "10.1145/3485832.3485889",
+        "keywords": "expert review, password managers, systematization",
+        "pages": "528\u2013540",
+        "series": "ACSAC '21",
+        "title": "Systematization of Password Manager Use Cases and Design Paradigms",
+        "type": "inproceedings",
+        "url": "https://dl.acm.org/doi/10.1145/3485832.3485889",
+        "year": "2021"
+    },
+    "Stobert2014, ": {
+        "abstract": "The problems with passwords are well-known: secure passwords are difficult to remember, users have too many passwords, and users have difficulty matching their passwords to accounts. Password managers and cued graphical passwords are two password solutions that address the issues of memorability and keeping track of of passwords. We have developed Versipass, a password manager that incorporates key elements of password managers and cued graphical passwords to avoid existing problems of password memorability and associating passwords with accounts. Instead of remembering passwords, Versipass remembers image cues for graphical passwords. These cues help users to better remember their passwords and to more easily link passwords with accounts. Versipass also facilitates safe password reuse by allowing users to use the same image cue for multiple accounts.",
+        "author": "Elizabeth Stobert and Robert Biddle",
+        "booktitle": "Proceedings of the 2014 New Security Paradigms Workshop",
+        "doi": "10.1145/2683467.2683471",
+        "keywords": "authentication, password managers, graphical passwords",
+        "pages": "39-52",
+        "title": "A Password Manager that Doesn\u2019t Remember Passwords",
+        "type": "inproceedings",
+        "url": "https://dl.acm.org/doi/10.1145/2683467.2683471",
+        "year": "2014"
+    },
+    "Zhao2014": {
+        "abstract": "Web users are confronted with the daunting challenges of creating, remembering, and using more and more strong passwords than ever before in order to protect their valuable assets on different websites. Password manager, particularly Browser-based Password Manager (BPM), is one of the most popular approaches designed to address these challenges by saving users' passwords and later automatically filling the login forms on behalf of users. Fortunately, all the five most popular Web browsers have provided password managers as a useful built-in feature. In this paper, we uncover the vulnerabilities of existing BPMs and analyze how they can be exploited by attackers to crack users' saved passwords. Moreover, we propose a novel Cloud-based Storage-Free BPM (CSF-BPM) design to achieve a high level of security with the desired confidentiality, integrity, and availability properties. We have implemented a CSF-BPM system into Firefox and evaluated its correctness, performance, and usability. Our evaluation results and analysis demonstrate that CSF-BPM can be efficiently and conveniently used. We believe CSF-BPM is a rational design that can also be integrated into other popular browsers to make the online experience of Web users more secure, convenient, and enjoyable.",
+        "author": "Rui Zhao and Chuan Yue",
+        "doi": "10.1016/j.cose.2014.07.003",
+        "journal": "Computers and Security",
+        "title": "Toward a secure and usable cloud-based password manager for web browsers",
+        "type": "article",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0167404814001059?via%3Dihub",
+        "volume": "46",
+        "year": "2014"
+    }
+}});
